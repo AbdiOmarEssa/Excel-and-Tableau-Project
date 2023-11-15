@@ -38,5 +38,8 @@ Please feel free to explore the project and reach out with any questions or feed
 
 Thank you for visiting!
 
-Tableau Public Link
+<img width="1001" alt="Screenshot 2023-11-15 at 17 51 30" src="https://github.com/AbdiOmarEssa/Excel-and-Tableau-Project/assets/150945244/f4cd30f8-0803-4054-9504-f5e3704c2783">
+
+## Tableau Public Link
 https://public.tableau.com/shared/6CMWG4Z3C?:display_count=n&:origin=viz_share_link
+
